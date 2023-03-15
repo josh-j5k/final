@@ -9,5 +9,5 @@ git init
 git add -A
 git commit -m "deployment"
 
-git push -f git@github.com:josh-j5k/agm.git master:pages
+git push -f git@github.com:josh-j5k/agm.git main:pages
 cd -
